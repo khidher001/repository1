@@ -6,7 +6,7 @@
 #include "SD_MMC.h"
 
 // ==========================================
-// MASTER WIFI CONNECTION
+
 // ==========================================
 
 const char* ssid = "KATSEYE";
